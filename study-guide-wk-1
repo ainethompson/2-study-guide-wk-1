@@ -93,21 +93,30 @@ Git
 ----------------------------------------------------------------
 Functions
 - What is a function?
+    A section of reusable code that takes inputs, performs computations using those inputs, to output something. Helps organize code into blocks that perform a single operation
 
 - What is a function signature?
+    The parameters, and return values of a function
 
 - What does return do?
+    ends the function
 
 - All functions return something in Python. If you don’t override a function’s default return value in Python, what will the function return?
+    None
 
 - What are optional parameters?
+    You can set default values for parameters so if no arguments are given, the function can use the default values instead
 
 - How do you write a docstring?
+    Use """ to give a description of what the function's purpose is. The first line should be a general overview, and subsequent lines can give more detail.
 
 - What is the difference between a function’s parameters and its arguments?
+    When a function is defined, it has parameters that serve as placeholders for pieces of information the function will use to determine the output. Arguments are the pieces of data that fill in the parameters.
 
 - What is the difference between defining a function and calling a function?
+    Defining a function lays out instructions for what the function should do, but nothing actually happens until you call the function, which is what actually executes the code.
 
 - We use the word scope to refer to values that a function can access or not. Can functions access values in their inner scope, their outer scope, or both?
+    functions can access values in both their inner and outer scopes, but anything outside the function cannot access values from the inner scope of the function unless it is specifically returned.
 
 © 2020 Hackbright Academy
