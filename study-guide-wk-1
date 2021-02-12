@@ -8,14 +8,16 @@ We recommend that you review study guides at the end of every week. First, try t
 ----------------------------------------------------------------
 Algorithms
 - What is an algorithm? Give an example of an algorithm.
-    An algorithm is
+    An algorithm is a formula or set of instructions for solving a specific problem
 
 - What is a heuristic? How do they relate to algorithms?
-
+    A heuristic is an algorithm that is designed to solve a problem more efficiently by sacrificing accuracy, so it produces an educated approximation.
+    
 - In computer science, what does the term brute force mean?
+    Brute force means an algorithm doesn't use any shortcuts to conserve time or memory, it just tries every option until it finds what it's looking for.
 
 - What does API stand for?
-
+    Application programming interface
 ----------------------------------------------------------------
 Command Line & Shell
 - How does a graphical user interace (GUI) differ from a command-line interface (CLI)?
