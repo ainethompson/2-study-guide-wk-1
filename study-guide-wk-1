@@ -11,8 +11,8 @@ Algorithms
     An algorithm is a formula or set of instructions for solving a specific problem
 
 - What is a heuristic? How do they relate to algorithms?
-    A heuristic is an algorithm that is designed to solve a problem more efficiently by sacrificing accuracy, so it produces an educated approximation.
-    
+    Heuristics are additional logic taken into consideration by an algorithm to make it more efficient.
+
 - In computer science, what does the term brute force mean?
     Brute force means an algorithm doesn't use any shortcuts to conserve time or memory, it just tries every option until it finds what it's looking for.
 
@@ -21,38 +21,42 @@ Algorithms
 ----------------------------------------------------------------
 Command Line & Shell
 - How does a graphical user interace (GUI) differ from a command-line interface (CLI)?
+    A GUI allows users to interact with the OS through clicking on graphics and icons on the screen. A CLI allows users to interact with the OS through typing commands directly into the terminal
 
 - If someone asked to see your command line prompt, how would you show it to them?
+    I would open the terminal and show them the username, laptop, and folder I'm located at.
 
 - How can you tell the difference between a relative file path and an absolute file path?
-   
+   A relative filepath starts in the current directory, while an absolute filepath starts from the home directory and starts with a /.
+
 - ~ is an alias for a certain directory. What is that directory?
+    Home directory
 
 - Here are some commands used for navigating the filesystem. What does each command do? Give an example of how you would use each command.
+    - pwd: print working directory
 
-    - pwd: 
+    - cd: change directory
 
-    - cd: 
-
-    - ls: 
+    - ls: list contents of directory
 
         We also showed you how to use ls with different arguments. You don’t have to remember exactly what they do — just be aware of them:
 
-            - ls -a: 
+            - ls -a: list all contents, including hidden files
 
-            - ls -l: 
+            - ls -l: gives additional info on the contents of the directory
 
-            - ls -al
+            - ls -al: gives additional info on all contents including hidden files
 
 - Here are some commands used for modifying files. What does each command do? Give an example of how you would use each one.
 
-    - mkdir
+    - mkdir: make directory
 
-    - mv
+    - mv: move or rename file
 
-    - cp
+    - cp: copy
 
 - What does Ctrl - d and Ctrl - c do in the terminal?
+    ctrl - c cancels a process (stops a program). ctrl - d exits a program.
 
 ----------------------------------------------------------------
 Using Vagrant
