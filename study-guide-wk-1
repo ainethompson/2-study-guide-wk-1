@@ -61,7 +61,7 @@ Command Line & Shell
 ----------------------------------------------------------------
 Using Vagrant
 - What’s the name of the folder on your computer that’s shared with Vagrant?
-
+    src
 - Make sure you know when to use the following, Vagrant-related commands:
 
     - vagrant up
