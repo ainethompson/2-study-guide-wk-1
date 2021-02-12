@@ -73,20 +73,22 @@ Using Vagrant
 ----------------------------------------------------------------
 Git
 - In the context of using version control, what is a repository?
+    A project kept under version control.
 
-- In the ocntext of using version control, what is a working directory?
+- In the context of using version control, what is a working directory?
+    Your particular copy of a repository.
 
 - Make sure you know how and when to use the following git commands:
 
-    - git status
+    - git status: shows status of files in your working directory
 
-    - git init
+    - git init: initializes an empty repo
 
-    - it add
+    - git add: adds file to be tracked by git repo
 
-    - git commit -am
+    - git commit -am: commits all files that are being tracked and add commit message
 
-    - git log
+    - git log: show log of all previous commits
     
 ----------------------------------------------------------------
 Functions
