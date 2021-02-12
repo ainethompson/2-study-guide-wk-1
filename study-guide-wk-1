@@ -1,0 +1,105 @@
+Study Guide: Week 1
+Hackbright is fast-paced and we throw a lot of information at you. We like to tell students that as long as they understand 80% of the material 80% of the time, they’re on the right track. But what does that actually mean?
+
+Study guides — like this one! — will help you review the concepts from this week that are critical because you’ll use these ideas throughout the rest of the course.
+
+We recommend that you review study guides at the end of every week. First, try to answer each of the questions without looking at your lecture notes. Then review the questions that you couldn’t answer. Make sure you note down topics that are still confusing to you and bring them up during advising or office hours.
+
+----------------------------------------------------------------
+Algorithms
+- What is an algorithm? Give an example of an algorithm.
+    An algorithm is
+
+- What is a heuristic? How do they relate to algorithms?
+
+- In computer science, what does the term brute force mean?
+
+- What does API stand for?
+
+----------------------------------------------------------------
+Command Line & Shell
+- How does a graphical user interace (GUI) differ from a command-line interface (CLI)?
+
+- If someone asked to see your command line prompt, how would you show it to them?
+
+- How can you tell the difference between a relative file path and an absolute file path?
+   
+- ~ is an alias for a certain directory. What is that directory?
+
+- Here are some commands used for navigating the filesystem. What does each command do? Give an example of how you would use each command.
+
+    - pwd: 
+
+    - cd: 
+
+    - ls: 
+
+        We also showed you how to use ls with different arguments. You don’t have to remember exactly what they do — just be aware of them:
+
+            - ls -a: 
+
+            - ls -l: 
+
+            - ls -al
+
+- Here are some commands used for modifying files. What does each command do? Give an example of how you would use each one.
+
+    - mkdir
+
+    - mv
+
+    - cp
+
+- What does Ctrl - d and Ctrl - c do in the terminal?
+
+----------------------------------------------------------------
+Using Vagrant
+- What’s the name of the folder on your computer that’s shared with Vagrant?
+
+- Make sure you know when to use the following, Vagrant-related commands:
+
+    - vagrant up
+
+    - vagrant ssh
+
+    - vagrant halt
+
+----------------------------------------------------------------
+Git
+- In the context of using version control, what is a repository?
+
+- In the ocntext of using version control, what is a working directory?
+
+- Make sure you know how and when to use the following git commands:
+
+    - git status
+
+    - git init
+
+    - it add
+
+    - git commit -am
+
+    - git log
+    
+----------------------------------------------------------------
+Functions
+- What is a function?
+
+- What is a function signature?
+
+- What does return do?
+
+- All functions return something in Python. If you don’t override a function’s default return value in Python, what will the function return?
+
+- What are optional parameters?
+
+- How do you write a docstring?
+
+- What is the difference between a function’s parameters and its arguments?
+
+- What is the difference between defining a function and calling a function?
+
+- We use the word scope to refer to values that a function can access or not. Can functions access values in their inner scope, their outer scope, or both?
+
+© 2020 Hackbright Academy
